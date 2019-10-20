@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\subham.ruj\\source\\repos\\First_Core_APP\\Core_Web_APP\\Core_Web_APP.csproj",
+      "projectUniqueName": "C:\\Users\\subham.ruj\\source\\repos\\firstcoreapp\\Core_Web_APP\\Core_Web_APP.csproj",
       "projectName": "Core_Web_APP",
-      "projectPath": "C:\\Users\\subham.ruj\\source\\repos\\First_Core_APP\\Core_Web_APP\\Core_Web_APP.csproj",
+      "projectPath": "C:\\Users\\subham.ruj\\source\\repos\\firstcoreapp\\Core_Web_APP\\Core_Web_APP.csproj",
       "packagesPath": "C:\\Users\\subham.ruj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\subham.ruj\\source\\repos\\First_Core_APP\\Core_Web_APP\\obj\\",
+      "outputPath": "C:\\Users\\subham.ruj\\source\\repos\\firstcoreapp\\Core_Web_APP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
