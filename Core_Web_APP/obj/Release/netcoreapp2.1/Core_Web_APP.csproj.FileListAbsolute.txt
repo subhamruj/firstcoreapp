@@ -1,0 +1,14 @@
+C:\Users\subham.ruj\source\repos\First_Core_APP\Core_Web_APP\bin\Release\netcoreapp2.1\Core_Web_APP.deps.json
+C:\Users\subham.ruj\source\repos\First_Core_APP\Core_Web_APP\bin\Release\netcoreapp2.1\Core_Web_APP.runtimeconfig.json
+C:\Users\subham.ruj\source\repos\First_Core_APP\Core_Web_APP\bin\Release\netcoreapp2.1\Core_Web_APP.runtimeconfig.dev.json
+C:\Users\subham.ruj\source\repos\First_Core_APP\Core_Web_APP\bin\Release\netcoreapp2.1\Core_Web_APP.dll
+C:\Users\subham.ruj\source\repos\First_Core_APP\Core_Web_APP\bin\Release\netcoreapp2.1\Core_Web_APP.pdb
+C:\Users\subham.ruj\source\repos\First_Core_APP\Core_Web_APP\obj\Release\netcoreapp2.1\Core_Web_APP.csprojAssemblyReference.cache
+C:\Users\subham.ruj\source\repos\First_Core_APP\Core_Web_APP\obj\Release\netcoreapp2.1\Core_Web_APP.csproj.CoreCompileInputs.cache
+C:\Users\subham.ruj\source\repos\First_Core_APP\Core_Web_APP\obj\Release\netcoreapp2.1\Core_Web_APP.RazorAssemblyInfo.cache
+C:\Users\subham.ruj\source\repos\First_Core_APP\Core_Web_APP\obj\Release\netcoreapp2.1\Core_Web_APP.RazorAssemblyInfo.cs
+C:\Users\subham.ruj\source\repos\First_Core_APP\Core_Web_APP\obj\Release\netcoreapp2.1\Core_Web_APP.AssemblyInfoInputs.cache
+C:\Users\subham.ruj\source\repos\First_Core_APP\Core_Web_APP\obj\Release\netcoreapp2.1\Core_Web_APP.AssemblyInfo.cs
+C:\Users\subham.ruj\source\repos\First_Core_APP\Core_Web_APP\obj\Release\netcoreapp2.1\Core_Web_APP.RazorTargetAssemblyInfo.cache
+C:\Users\subham.ruj\source\repos\First_Core_APP\Core_Web_APP\obj\Release\netcoreapp2.1\Core_Web_APP.dll
+C:\Users\subham.ruj\source\repos\First_Core_APP\Core_Web_APP\obj\Release\netcoreapp2.1\Core_Web_APP.pdb
