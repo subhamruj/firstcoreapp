@@ -19,6 +19,9 @@ namespace First_Core_APP
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+                .UseKestrel()
+                .UseUrls("http://*:80")
+                .UseContentRoot(Directory.GetCurrentDirectory())
                 .UseStartup<Startup>();
     }
 }
